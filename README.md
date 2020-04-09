@@ -1,7 +1,7 @@
 # Main Goal
 Having a room with a bunch players and a dungeon master, where the players can roll a dice and the rolls value can be seen by everyone.
 
-# User Stories
+# User Stories 1.0.0
 #### Player
 - [ ] Enter a room by accessing a link
 - [ ] Can roll a dice
