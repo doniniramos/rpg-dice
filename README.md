@@ -22,5 +22,6 @@ Having a room with a bunch players and a dungeon master, where the players can r
 [Figma project](https://www.figma.com/file/qglV9g2aNH6ds7A7a8eHCK)
 
 # Technical
-[Flutter](https://flutter.dev/docs/get-started/install)
+[Flutter](https://flutter.dev/docs/get-started/install) 
+
 [Firebase](https://firebase.google.com/docs/cli)
