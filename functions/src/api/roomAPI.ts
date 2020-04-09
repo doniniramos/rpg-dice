@@ -15,3 +15,12 @@ routerRoom.post('/createRoom', async (request, response) => {
         response.status(500).send(failure.errorToJson(error))
     }
 })
+
+routerRoom.post('/rollDice', async (request, response) => {
+    try {
+        response.send(await roomDomain.rollDice(request.body))
+    } catch (error) {
+        console.log(error);
+        response.status(500).send(failure.errorToJson(error))
+    }
+})
